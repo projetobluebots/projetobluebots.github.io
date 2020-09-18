@@ -1,13 +1,13 @@
 ## Bem-vindo!
 
-A Blue Bots é uma equipe transdisciplinar do laboratório de robótica UVABots, que desenvolve soluções focadas em indivíduos no espectro do autismo.
+A BlueBots é uma equipe transdisciplinar do laboratório de robótica UVABots, que desenvolve soluções focadas em indivíduos no espectro do autismo.
 
 
 ## Links
 
 Segue alguns links úteis, a serem usados no dia-a-dia das atividades dos membros da equipe.
 
-**ATENÇÃO!** Todos os integrantes devem, ao menos, fazer parte do **Canal de Avisos**!
+**ATENÇÃO!** Todos os integrantes devem estar no **Canal de Avisos**!
 
 É aconselhado que os integrantes também entrem no **Grupo Principal**.
 
