@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Bem-vindo!
 
-You can use the [editor on GitHub](https://github.com/projetobluebots/projetobluebots.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+A Blue Bots é uma equipe transdisciplinar do laboratório de robótica UVABots, que desenvolve soluções focadas em indivíduos no espectro do autismo.]
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Links
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Segue alguns links úteis, a serem usados no dia-a-dia das atividades dos membros da equipe.
 
-```markdown
-Syntax highlighted code block
+**ATENÇÃO!** Todos os integrantes devem, ao menos, fazer parte do **Canal de Avisos**!
 
-# Header 1
-## Header 2
-### Header 3
+É aconselhado que os integrantes também entrem no **Grupo Principal**.
 
-- Bulleted
-- List
+- **CANAIS E GRUPOS DE CHAT**
+  - **Canal de Avisos**: https://t.me/joinchat/AAAAAFlEfkm7mDTEN8sKDg
+  - **Grupo Principal**: https://t.me/joinchat/CYkiq1DmHssWRwMyPQcXCA
+  - **Desenvolvimento**: https://t.me/joinchat/CYkiqxpf1tbvPm6uVXv8VQ
+  - **Pesquisa**: https://t.me/joinchat/CYkiq1Z1kC5Z6mD91a8i0Q
+  - **Conteúdo Digital**: https://t.me/joinchat/CYkiqxswlOdG9sSLjwO7Sw
+- **GOOGLE DRIVE**: https://drive.google.com/drive/folders/1Ht6FH6SPljDCq9sjnJUKSyISZ6ws9Bb7?usp=sharing
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/projetobluebots/projetobluebots.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Temos também um Servidor no Discord, que é utilizado para realizar as reuniões da equipe. Se algum integrante da Equipe necessitar de acesso ao servidor, por favor, peça à Capitania por um link de convite.
