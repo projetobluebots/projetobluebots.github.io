@@ -15,6 +15,7 @@ Segue alguns links úteis, a serem usados no dia-a-dia das atividades dos membro
   - **Canal de Avisos**: [https://t.me/joinchat/AAAAAFlEfkm7mDTEN8sKDg](https://t.me/joinchat/AAAAAFlEfkm7mDTEN8sKDg)
   - **Grupo Principal**: [https://t.me/joinchat/CYkiq1DmHssWRwMyPQcXCA](https://t.me/joinchat/CYkiq1DmHssWRwMyPQcXCA)
   - **Desenvolvimento**: [https://t.me/joinchat/CYkiqxpf1tbvPm6uVXv8VQ](https://t.me/joinchat/CYkiqxpf1tbvPm6uVXv8VQ)
+  - **Web**: [https://t.me/joinchat/CYkiqxeM10fE-FHLrbHoYg](https://t.me/joinchat/CYkiqxeM10fE-FHLrbHoYg)
   - **Pesquisa**: [https://t.me/joinchat/CYkiq1Z1kC5Z6mD91a8i0Q](https://t.me/joinchat/CYkiq1Z1kC5Z6mD91a8i0Q)
   - **Conteúdo Digital**: [https://t.me/joinchat/CYkiqxswlOdG9sSLjwO7Sw](https://t.me/joinchat/CYkiqxswlOdG9sSLjwO7Sw)
 - **GOOGLE DRIVE**: [https://drive.google.com/drive/folders/1Ht6FH6SPljDCq9sjnJUKSyISZ6ws9Bb7?usp=sharing](https://drive.google.com/drive/folders/1Ht6FH6SPljDCq9sjnJUKSyISZ6ws9Bb7?usp=sharing)
